@@ -14,3 +14,4 @@ The above files are the problems that I was able to solve on my own. So far I am
   - I want to highlight this one as I had to use an idea from my proofs class that I thought I'd never use
   - First time dealing with integer overflow
   - Chinese Remainder Theorem was used to deal with the problem of integer overflow
+  - Some nice object usage
