@@ -1,4 +1,2 @@
-# AoC2022
-fdlaskjfhldksah;f
-fdajkl;jkfl;ads;sk
-fjhkls;da
+# About Advent of Code
+Advent of Code is an annual series of 25 programming puzzles created by Eric Wastl.
