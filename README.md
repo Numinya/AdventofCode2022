@@ -3,6 +3,9 @@ Advent of Code is an annual series of 25 fun 2-part programming puzzles created 
 
 # My Submissions
 The above files are the problems that I was able to solve on my own. So far I am stuck on day 12. Some of the problems and comments I would like to highlight are listed here:
+* Day 7 No Space Left on Device
+  - General Trees 
+  - Object pointers
 * Day 9 Rope Bridge Part 2
   - This problem was the most challenging one I did by far. 
   - Created neccessary objects and operator overloads
